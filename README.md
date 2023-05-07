@@ -28,6 +28,7 @@ I am to assist the lead data scientist, Jill, in creating several machine learni
 
 
 ### Ensemble Classifier Algorithms
+
 - BalancedRandomForestClassifier
 ![BalancedRandomForestClassifier](https://github.com/Caracalla1081/Credt_Risk_Analysis/blob/cd8593e0105710dabebc7608399cb188cee23c57/Images/BalancedRandomForestClassifier%20Algorithm.png)
 
