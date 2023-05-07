@@ -8,22 +8,21 @@ I am to assist the lead data scientist, Jill, in creating several machine learni
 ### Resampling Models
 
 - RandomOverSampler Algorithm
- ![RandomOverSampler](https://github.com/Caracalla1081/Credt_Risk_Analysis/blob/cd8593e0105710dabebc7608399cb188cee23c57/Images/RandomOverSampler%20Algorithm.png)
+![RandomOverSampler](https://github.com/Caracalla1081/Credt_Risk_Analysis/blob/cd8593e0105710dabebc7608399cb188cee23c57/Images/RandomOverSampler%20Algorithm.png)
  
  
  
 - SMOTE Algorithm
- ![SMOTE](https://github.com/Caracalla1081/Credt_Risk_Analysis/blob/cd8593e0105710dabebc7608399cb188cee23c57/Images/SMOTE%20Algorithm.png)
+![SMOTE](https://github.com/Caracalla1081/Credt_Risk_Analysis/blob/cd8593e0105710dabebc7608399cb188cee23c57/Images/SMOTE%20Algorithm.png)
  
  
  
 - ClusterCentroids Algorithm
- ![ClusterCentroids](https://github.com/Caracalla1081/Credt_Risk_Analysis/blob/cd8593e0105710dabebc7608399cb188cee23c57/Images/ClusterCentroids%20Algorithm.png)
- 
+![ClusterCentroids](https://github.com/Caracalla1081/Credt_Risk_Analysis/blob/cd8593e0105710dabebc7608399cb188cee23c57/Images/ClusterCentroids%20Algorithm.png)
  
  
  ### SMOTEEN Algorithm
- ![SMOTEEN](https://github.com/Caracalla1081/Credt_Risk_Analysis/blob/cd8593e0105710dabebc7608399cb188cee23c57/Images/SMOTEEN%20Algorithm.png)
+![SMOTEEN](https://github.com/Caracalla1081/Credt_Risk_Analysis/blob/cd8593e0105710dabebc7608399cb188cee23c57/Images/SMOTEEN%20Algorithm.png)
  
  
 
