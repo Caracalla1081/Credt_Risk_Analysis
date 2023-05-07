@@ -42,3 +42,10 @@ I am to assist the lead data scientist, Jill, in creating several machine learni
 - Balanced Accuracy Score: The balanced accuracry score of .73 can be considered good at prediciting who is and who is not at a worthy candidate for credit lending.
 - Precision Score: The precision score of .02 to classify "high-risk" and score of 1 for classifying "low-risk" indicates that there are a large amount of false positives for "high-risk", meaning the classification of "low-risk" us unreliable.
 - Recall Score: The recall score of .70 for "high-risk" and .76 for "low-risk" classification illustrates the model is relatively okay at classifying "high-risk" candidates, equally.
+
+## Summary
+After running and evaluating all the algorithms, it is safe to say that if the company was adamant about choosing a model to use, it would be one of the two ensemble classifiers; the Balanced Random or the Easy Ensemble. Since the impact of false negatives relating to potential losses in lending to high-risk candidates is not as risky as if we were testing for cancer, the company may find the results of these algorithms acceptable. The cmpany may find that these results fit into their other analysis on how many "losses" they can accept and still reach their yearly financial goals.
+
+In my overall opinion, I would not recommend that any of these algorithms are great at the companies goal of accurately classifying "low" and "high" risk candidates. All models tested are bad to marginally good at properly classifying "low-risk" candidates, meaning that too many applicants are being classified as "low-risk" when they could in fact be "high-risk". When recall scores are factored in, the results illustrate teh same; the models are all either bad or marginally good at classifying candidates accurately.
+
+Again, in summary, if the company is accepting of a certain level of loss, then the Balanced Random Forest or Easy Ensemble classifiers are the prefered models to use in classifying "low" and "high" risk candidates accurately.
